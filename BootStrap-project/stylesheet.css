@@ -1,0 +1,120 @@
+body{
+	background-color: rgb(153, 177, 181);
+	font-family: sans-serif;
+	color: white;
+}
+h1{
+	text-align: center;
+	color: #696969;
+}
+.nav-custom{
+	padding-left: 40px;
+	padding-top: 10px;
+	background-color: rgb(153, 177, 181, 0.9);
+}
+.custom-style{
+	color: rgba(255, 255, 255, 0.7);
+}
+
+.custom-style:hover{
+	border-bottom: solid;
+	color: rgba(255, 255, 255, 1);
+}
+.intro-wrapper{
+	background-color: #EEF3F7;
+	padding: 80px 0px;
+	margin-top: 80px;
+}
+.details{
+	margin-right: 20px;
+	background-color: #F5F5F5;
+	height: 470px
+}
+.profile-box{
+	border: solid;
+	border-color: #DCDCDC;
+}
+.details img{
+	height: 300px;
+	padding: 20px;
+	width: 270px;
+	
+}
+.details p{
+	color: grey;
+	padding-left: 20px;
+}
+.about-me-wrapper{
+	width: 50%
+	padding-right: 90px;
+	color: #808080;
+}
+.skill-set{
+	padding: 80px 0px;
+	margin: 70px 0px;
+}
+.skills {
+  text-align: right; 
+  height: 20px;
+  color: white;
+}
+
+.skill-bar {
+  width: 80%; 
+  background-color: #ddd;
+  height: 20px;
+}
+.skill1{
+	width: 90%;
+	background-color: #225C7B;
+}
+
+.skill2{
+	width: 60%;
+	background-color: #225C7B;
+}
+
+.skill3{
+	width: 70%;
+	background-color: #225C7B;
+}
+
+.skill-img-wrapper{
+	text-align: left;
+	padding: 30px;
+
+}
+.skill-img-wrapper img{
+	opacity: 80%;
+	border-radius: 50%;
+	height: 140px;
+	width: 140px;
+}
+.work-wrapper{
+	padding: 90px 0px;
+	margin: 20px 0px;
+}
+.research-wrapper{
+	padding: 60px 0px;
+	margin-top: 20px;
+}
+.custom-card{
+	background-color: #EEF3F7;
+	color: black;
+}
+.contact-me{
+	text-align: center;
+}
+.contact-me img{
+	margin: 0px 10px;
+	opacity: 50%;
+}
+.contact-me img:hover{
+	background: #F5F5F5;
+	opacity: 100%;
+	border-radius: 50%;
+}
+
+footer{
+	margin-bottom: 150px;
+}
